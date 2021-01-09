@@ -1,6 +1,8 @@
 A program for mixing search keywords from KeyCollector.
 
-You can specify main word and keywords for mixing. You will get a list all uniquie words from keywords with main word. For example:
+You can specify main word and keywords for mixing. You will get a list all uniquie words from keywords with main word. Words less than 3 symbols will be skipped. For example:
+
+![Example](https://github.com/Seriyyy95/KeywordsMixer/blob/master/example.png?raw=true)
 
 - Install
 
