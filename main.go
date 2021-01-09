@@ -187,7 +187,7 @@ func UpdateProgress(bar *gtk.ProgressBar, progress chan float64){
 }
 
 func main(){
-    err := morph.Init();
+    err := morph.Init(GetPath() + "/data/");
     if err != nil {
         log.Fatal(err)
     }
