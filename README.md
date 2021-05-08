@@ -4,7 +4,7 @@ You can specify main word and keywords for mixing. You will get a list all uniqu
 
 ![Example](https://github.com/Seriyyy95/KeywordsMixer/blob/master/example.png?raw=true)
 
-- Install
+## Install
 
 For install in Ubuntu run:
 
