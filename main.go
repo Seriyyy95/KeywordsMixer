@@ -218,6 +218,7 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
+
 	err = builder.AddFromFile(GetPath() + "/interface.glade")
 	if err != nil {
 		log.Fatal(err)
